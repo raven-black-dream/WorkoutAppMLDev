@@ -1,0 +1,1973 @@
+[
+    {
+        "program_name": "Evan - PPL",
+        "days": [
+            {
+                "day_name": "Pull 1",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Deadlift",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Push 1",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Decline Bench Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Leg",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Squat",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull 2",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Pause Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Armed Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Push 2",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Incline Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "Lauren - 2 day split",
+        "days": [
+            {
+                "day_name": "Upper Body",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Floor Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Arm Dumbell Row - Right",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Arm Dumbell Row - Left",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbell Preacher Curl - Right",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbell Preacher Curl - Left",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Lower Body",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Squat",
+                        "reps_min": 1,
+                        "reps_max": 1,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Suitcase Dumbell Romanian Deadlift - Right",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Suitcase Dumbell Romanian Deadlift - Left",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 7.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Hip Thrusters",
+                        "reps_min": 1,
+                        "reps_max": 1,
+                        "rpe": 7.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "PPL - Max Effort",
+        "days": [
+            {
+                "day_name": "Bench Press ME Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Bench Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Military Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Incline Dumbbell Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Military Press ME Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Military Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Bench Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Incline Dumbbell Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Push Non-ME Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Bench Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Military Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Incline Dumbbell Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Deadlift ME Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Deadlift",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull Non-ME Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Bent Over Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Squat ME Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Squat",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Leg Non-ME Day",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Squat",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "5 Day Split",
+        "days": [
+            {
+                "day_name": "Chest/Shoulders 1",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Shoulder Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Floor Press",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Skullcrusher",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Close Grip Floor Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Chest/Shoulders 2",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Floor Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Rear Delt Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Arnold Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Front Raise",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Posterior Chain 1",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Romanian Deadlift",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Resistance Band Lat Pulldown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Arm Dumbell Row - Right",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Arm Dumbell Row - Left",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Reverse Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Legs 1",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Squat",
+                        "reps_min": 12,
+                        "reps_max": 15,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Glute Bridge",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lunge",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Lunge",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Legs 2",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Good Morning",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Pause Squat",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Step Up",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Crossover Lunge",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "PPL-Variation 2",
+        "days": [
+            {
+                "day_name": "Push Day - Var 1",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Bench Pin Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 2,
+                        "exercise_name": "Front Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Push Day - Var 2",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Decline Bench Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Shoulder Press Machine",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Front Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull Day - Var 1",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Deadlift",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Supported Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull Day - Var 2",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Rack Pull",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Barbell Reverse Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Leg Day - Var 1",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Squat",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Leg Day - Var 2",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Squat",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "PPL - COVID variation",
+        "days": [
+            {
+                "day_name": "Leg Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Glute Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Push Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Front Raise",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull Day",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "T-bar Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Barbell Reverse Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "PPL - COVID variation 2",
+        "days": [
+            {
+                "day_name": "Light Pull Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Heavy Pull Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Deadlift",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Pull up",
+                        "reps_min": 10,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Arm Dumbell Row - Right",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Arm Dumbell Row - Left",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Barbell Bicep Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Light Push Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Heavy Push Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Bench Press",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Shoulder Press Machine",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Heavy Leg Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Squat",
+                        "reps_min": 5,
+                        "reps_max": 5,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Light Leg Day",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Squat",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "Kelly - PPL",
+        "days": [
+            {
+                "day_name": "Heavy Push",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Shoulder Press Machine",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Decline Press",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Light Push",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Incline Dumbbell Press",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Heavy Pull",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Barbell Bicep Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Light Pull",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Bent Over Row",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Assisted Pull Up",
+                        "reps_min": 1,
+                        "reps_max": 10,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Heavy Legs",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Box Squat",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Extension",
+                        "reps_min": 8,
+                        "reps_max": 12,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Light Legs",
+                "sets": [
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Goblet Squat",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Step Up",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "program_name": "PPL - Hypertrophy Meso",
+        "days": [
+            {
+                "day_name": "Push Day 1",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Bench Press",
+                        "reps_min": 7,
+                        "reps_max": 10,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Dumbbell Shoulder Press",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Incline Dumbbell Press",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull Day 1",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Deadlift",
+                        "reps_min": 7,
+                        "reps_max": 10,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Seated Cable Row",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Dumbell Bicep Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Leg Day",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Squat",
+                        "reps_min": 7,
+                        "reps_max": 10,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Romanian Deadlift",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Press",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Leg Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Calf Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Push Day 2",
+                "sets": [
+                    {
+                        "set_num": 5,
+                        "exercise_name": "Incline Press",
+                        "reps_min": 7,
+                        "reps_max": 10,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Chest Fly",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Rear Delt Fly",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Tricep Pushdown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Overhead Tricep Extension",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Lateral Raise",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            },
+            {
+                "day_name": "Pull Day 2",
+                "sets": [
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Deficit Deadlift",
+                        "reps_min": 7,
+                        "reps_max": 10,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "Lat Pulldown",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 3,
+                        "exercise_name": "One Armed Seated Cable Row",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Face Pull",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Barbell Bicep Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    },
+                    {
+                        "set_num": 4,
+                        "exercise_name": "Hammer Curl",
+                        "reps_min": 15,
+                        "reps_max": 20,
+                        "rpe": 8.0
+                    }
+                ]
+            }
+        ]
+    }
+]

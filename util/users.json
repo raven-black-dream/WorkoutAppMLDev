@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "first_name": "Evan",
+        "last_name": "Harley",
+        "current_program": "PPL - Hypertrophy Meso"
+    },
+    {
+        "user_id": 2,
+        "first_name": "Jen",
+        "last_name": "Peters",
+        "current_program": "PPL - Hypertrophy Meso"
+    },
+    {
+        "user_id": 3,
+        "first_name": "Lauren",
+        "last_name": "Morrison",
+        "current_program": "Lauren - 2 day split"
+    },
+    {
+        "user_id": 4,
+        "first_name": "jmgpeters",
+        "last_name": "Peters",
+        "current_program": "5 Day Split"
+    },
+    {
+        "user_id": 5,
+        "first_name": "Kelly",
+        "last_name": "Clark",
+        "current_program": "Kelly - PPL"
+    }
+]
